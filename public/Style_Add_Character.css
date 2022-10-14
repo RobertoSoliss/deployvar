@@ -1,0 +1,13 @@
+body {
+    background-image: url(Back_Two.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0%;
+    margin: 0%;
+    margin-top: 0%;
+    overflow-x: hidden;
+
+}
+.container{
+    margin: 7rem;
+}

@@ -1,0 +1,20 @@
+body {
+    background-image: url(Back_Crash_Titans.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0%;
+    margin: 0%;
+    margin-top: 0%;
+    overflow-x: hidden;
+
+}
+.container{
+    margin-top: 3rem;
+    background-color: rgba(255, 255, 255, 0.055);
+    box-shadow: rgba(0, 0, 0, 0.8) 0 0 5px;
+    border-radius: 2rem;
+}
+.T1{
+    color: white;
+    font-size: 3rem;
+}
