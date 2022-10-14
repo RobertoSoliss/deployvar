@@ -1,4 +1,4 @@
-const port = process.env.port || 3000
+const port = process.env.port || 3306
 
 const express = require('express')
 const mysql = require('mysql2')
